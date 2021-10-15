@@ -1,6 +1,6 @@
 # Cardo-et-al-2021
 Scripts for analysis of raw sequencing data and differential gene expression for the SETBP1 paper from Lucia F. Cardo. 
-The scripts start with raw data in .fastq files and uses STAR to align the sequences to a reference genome (obtained from Ensembl).
+The scripts start with raw data in .fastq files and uses STAR to align the sequences to a reference genome (from Ensembl).
 
 
 To use:
