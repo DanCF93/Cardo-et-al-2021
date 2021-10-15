@@ -1,0 +1,23 @@
+sampleNames	SRR2147154 SRR2147155 SRR2147156 SRR2147157 SRR2147158 SRR2147159 SRR2147160 SRR2147161
+refGenome	Homo_sapiens.GRCh38.dna_sm.primary_assembly.fa
+refGTF	Homo_sapiens.GRCh38.89.gtf
+fastqExtension	fastq.gz
+sequenceLength	50
+arccaProject	PR215
+arccaBatchQueue	batch_long
+arccaSerialQueue	serial
+arccaWorkQueue	workq
+moduleFastqc	fastqc/0.11.2
+moduleSTAR	STAR/2.5.1b
+modulePicard	picard/1.118 
+moduleJava	java/1.8.0_45
+moduleBWA	BWA/0.5.9
+moduleIGVTools	IGVTools/2.3.57
+moduleSAMTools	samtools/0.1.19
+moduleBEDTools	bedtools/2.24.0
+moduleBAMTools	bamtools/2.3.0
+moduleKENTTools	kent/315
+moduleHTSeq	HTSeq/0.6.1p1
+moduleHTSeqPython	pydexseq/1.18.4
+moduleFeatureCounts	subread/1.4.6-p2
+moduleTrimmomatic	trimmomatic/0.35
